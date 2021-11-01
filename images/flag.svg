@@ -1,0 +1,17 @@
+<svg id="maps-and-flags_1_" data-name="maps-and-flags (1)" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_2096" data-name="Group 2096">
+    <g id="Group_2095" data-name="Group 2095">
+      <path id="Path_64" data-name="Path 64" d="M23.217,1.565H7.043a.783.783,0,0,0-.783.783V4.7H4.7V.783A.783.783,0,0,0,3.913,0H.783A.783.783,0,0,0,0,.783V23.217A.783.783,0,0,0,.783,24h3.13a.783.783,0,0,0,.783-.783V9.391H6.261v2.348a.783.783,0,0,0,.783.783H23.217A.783.783,0,0,0,24,11.739V2.348A.783.783,0,0,0,23.217,1.565ZM3.13,22.435H1.565V1.565H3.13v20.87ZM6.261,7.826H4.7V6.261H6.261Zm16.174,3.13H7.826V3.13H22.435Z" fill="#525156"/>
+    </g>
+  </g>
+  <g id="Group_2098" data-name="Group 2098" transform="translate(9.391 7.826)">
+    <g id="Group_2097" data-name="Group 2097">
+      <path id="Path_65" data-name="Path 65" d="M205.825,166.957h-4.7a.783.783,0,0,0,0,1.565h4.7a.783.783,0,0,0,0-1.565Z" transform="translate(-200.347 -166.957)" fill="#525156"/>
+    </g>
+  </g>
+  <g id="Group_2100" data-name="Group 2100" transform="translate(9.391 4.696)">
+    <g id="Group_2099" data-name="Group 2099">
+      <path id="Path_66" data-name="Path 66" d="M210.521,100.174H201.13a.783.783,0,0,0,0,1.565h9.391a.783.783,0,0,0,0-1.565Z" transform="translate(-200.347 -100.174)" fill="#525156"/>
+    </g>
+  </g>
+</svg>

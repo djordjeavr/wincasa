@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.989" height="24" viewBox="0 0 14.989 24">
+  <g id="door" transform="translate(-96.117)">
+    <g id="Group_2089" data-name="Group 2089" transform="translate(96.117)">
+      <g id="Group_2088" data-name="Group 2088">
+        <path id="Path_58" data-name="Path 58" d="M110.318,0H96.905a.788.788,0,0,0-.788.788V23.212a.788.788,0,0,0,.788.788h13.412a.788.788,0,0,0,.788-.788V.788A.788.788,0,0,0,110.318,0ZM97.694,22.423V1.577h11.835V22.423H97.694Z" transform="translate(-96.117)" fill="#525156"/>
+      </g>
+    </g>
+    <g id="Group_2091" data-name="Group 2091" transform="translate(106.094 12.925)">
+      <g id="Group_2090" data-name="Group 2090">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="1.177" cy="1.177" r="1.177" fill="#525156"/>
+      </g>
+    </g>
+    <g id="Group_2093" data-name="Group 2093" transform="translate(98.774 2.623)">
+      <g id="Group_2092" data-name="Group 2092">
+        <path id="Path_59" data-name="Path 59" d="M152.8,64.732h9.675V55.967H152.8Zm1.577-7.188H160.9v5.611h-6.521Z" transform="translate(-152.799 -55.967)" fill="#525156"/>
+      </g>
+    </g>
+  </g>
+</svg>

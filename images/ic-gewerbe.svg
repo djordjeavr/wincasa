@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="ic-gewerbe" transform="translate(19565 -909)">
+    <g id="ic-gewerbe-2" data-name="ic-gewerbe" transform="translate(-19575.717 912)">
+      <path id="Path_138" data-name="Path 138" d="M36.633,22.594H34.778V.7a.7.7,0,0,0-.7-.7h-16.1a.7.7,0,0,0-.7.7V22.594H15.419a.7.7,0,1,0,0,1.406H36.633a.7.7,0,1,0,0-1.406Zm-13,0V17.8h4.793v4.793Zm6.2,0V17.1a.7.7,0,0,0-.7-.7h-6.2a.7.7,0,0,0-.7.7v5.5H18.68V1.406H33.372V22.594Z" fill="#fff"/>
+      <path id="Path_139" data-name="Path 139" d="M139.389,66.309h-3.446a.7.7,0,0,0-.7.7v3.446a.7.7,0,0,0,.7.7h3.446a.7.7,0,0,0,.7-.7V67.012A.7.7,0,0,0,139.389,66.309Zm-.7,3.446h-2.039V67.715h2.039Z" transform="translate(-114.874 -63.201)" fill="#fff"/>
+      <path id="Path_140" data-name="Path 140" d="M277.4,66.309h-3.446a.7.7,0,0,0-.7.7v3.446a.7.7,0,0,0,.7.7H277.4a.7.7,0,0,0,.7-.7V67.012A.7.7,0,0,0,277.4,66.309Zm-.7,3.446h-2.039V67.715H276.7Z" transform="translate(-246.417 -63.201)" fill="#fff"/>
+      <path id="Path_141" data-name="Path 141" d="M139.389,205.954h-3.446a.7.7,0,0,0-.7.7V210.1a.7.7,0,0,0,.7.7h3.446a.7.7,0,0,0,.7-.7v-3.446A.7.7,0,0,0,139.389,205.954Zm-.7,3.446h-2.039V207.36h2.039Z" transform="translate(-114.874 -196.3)" fill="#fff"/>
+      <path id="Path_142" data-name="Path 142" d="M277.4,205.954h-3.446a.7.7,0,0,0-.7.7V210.1a.7.7,0,0,0,.7.7H277.4a.7.7,0,0,0,.7-.7v-3.446A.7.7,0,0,0,277.4,205.954Zm-.7,3.446h-2.039V207.36H276.7Z" transform="translate(-246.417 -196.3)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_115" data-name="Rectangle 115" width="30" height="30" transform="translate(-19565 909)" fill="none"/>
+  </g>
+</svg>
