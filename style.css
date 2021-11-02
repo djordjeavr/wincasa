@@ -5,7 +5,7 @@ Github Theme URI: https://github.com/djordjeavr/wincasa.git
 Author: Singularity Solution - Djordje & Bojan
 Author URI: https://www.singularity.is
 Description: WohngefÃ¼hl pur im Herzen von Chur
-Version: 2.1
+Version: 2.2
 
 * For the full copyright and license information, please view
 * the LICENSE file that was distributed with this source code.
@@ -19,7 +19,7 @@ Version: 2.1
 	line-height:38px;
 }
 .navbar-collapse .contact{
-	padding:21px;
+	padding:22px;
 }
 .gray-text img {
     width: 114px;
